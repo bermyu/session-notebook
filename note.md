@@ -1,2 +1,2 @@
 i am learning Git 
-it not so exciting
+it is not so exciting
